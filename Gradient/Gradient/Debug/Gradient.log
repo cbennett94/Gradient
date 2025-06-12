@@ -1,0 +1,10 @@
+﻿  Grid.cpp
+C:\Users\CBenn\source\Gradient\Gradient\Gradient\Grid.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\CBenn\source\Gradient\Gradient\Gradient\Grid.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CBenn\source\Gradient\Gradient\Gradient\Grid.cpp(21,52): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CBenn\source\Gradient\Gradient\Gradient\Grid.cpp(32,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\CBenn\source\Gradient\Gradient\Gradient\Grid.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CBenn\source\Gradient\Gradient\Gradient\Grid.cpp(34,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CBenn\source\Gradient\Gradient\Gradient\Grid.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CBenn\source\Gradient\Gradient\Gradient\Grid.cpp(46,21): warning C4018: '<': signed/unsigned mismatch
+  Gradient.vcxproj -> C:\Users\CBenn\source\Gradient\Gradient\Debug\Gradient.exe

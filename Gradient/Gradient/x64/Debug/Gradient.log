@@ -1,0 +1,12 @@
+﻿  Main.cpp
+Main.obj : error LNK2019: unresolved external symbol SDL_GetWindowSurface referenced in function "int __cdecl SDL_main(void)" (?SDL_main@@YAHXZ)
+Main.obj : error LNK2019: unresolved external symbol SDL_PollEvent referenced in function "int __cdecl SDL_main(void)" (?SDL_main@@YAHXZ)
+Main.obj : error LNK2019: unresolved external symbol SDL_CreateWindowAndRenderer referenced in function "int __cdecl SDL_main(void)" (?SDL_main@@YAHXZ)
+Main.obj : error LNK2019: unresolved external symbol SDL_RenderSetScale referenced in function "int __cdecl SDL_main(void)" (?SDL_main@@YAHXZ)
+Main.obj : error LNK2019: unresolved external symbol SDL_SetRenderDrawColor referenced in function "void __cdecl clearScreen(struct SDL_Renderer *)" (?clearScreen@@YAXPEAUSDL_Renderer@@@Z)
+Main.obj : error LNK2019: unresolved external symbol SDL_RenderClear referenced in function "void __cdecl clearScreen(struct SDL_Renderer *)" (?clearScreen@@YAXPEAUSDL_Renderer@@@Z)
+Main.obj : error LNK2019: unresolved external symbol SDL_RenderDrawPoint referenced in function "void __cdecl setPixels(struct SDL_Renderer *,class Grid *)" (?setPixels@@YAXPEAUSDL_Renderer@@PEAVGrid@@@Z)
+Main.obj : error LNK2019: unresolved external symbol SDL_RenderPresent referenced in function "void __cdecl setPixels(struct SDL_Renderer *,class Grid *)" (?setPixels@@YAXPEAUSDL_Renderer@@PEAVGrid@@@Z)
+Main.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function "int __cdecl SDL_main(void)" (?SDL_main@@YAHXZ)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\CBenn\source\Gradient\Gradient\x64\Debug\Gradient.exe : fatal error LNK1120: 10 unresolved externals
